@@ -1,4 +1,4 @@
-# SDUC-paremetric-bad-contouring-model
+# PDUC: Parametric Delineation Uncertainties Contouring Modeling
 
 ## Instruction:
 Please see sample "sduc-exportation-example.ipynb" for instruction of using the SDUC model.
